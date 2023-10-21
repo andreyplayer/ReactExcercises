@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactExcercisesyar/static/css/main.073c9b0a.css",
-    "main.js": "/ReactExcercisesyar/static/js/main.6c751b7d.js",
-    "static/js/787.177e23c2.chunk.js": "/ReactExcercisesyar/static/js/787.177e23c2.chunk.js",
-    "index.html": "/ReactExcercisesyar/index.html",
-    "main.073c9b0a.css.map": "/ReactExcercisesyar/static/css/main.073c9b0a.css.map",
-    "main.6c751b7d.js.map": "/ReactExcercisesyar/static/js/main.6c751b7d.js.map",
-    "787.177e23c2.chunk.js.map": "/ReactExcercisesyar/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/ReactExcercise/static/css/main.073c9b0a.css",
+    "main.js": "/ReactExcercise/static/js/main.ef6f4f2e.js",
+    "static/js/787.177e23c2.chunk.js": "/ReactExcercise/static/js/787.177e23c2.chunk.js",
+    "index.html": "/ReactExcercise/index.html",
+    "main.073c9b0a.css.map": "/ReactExcercise/static/css/main.073c9b0a.css.map",
+    "main.ef6f4f2e.js.map": "/ReactExcercise/static/js/main.ef6f4f2e.js.map",
+    "787.177e23c2.chunk.js.map": "/ReactExcercise/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6c751b7d.js"
+    "static/js/main.ef6f4f2e.js"
   ]
 }
